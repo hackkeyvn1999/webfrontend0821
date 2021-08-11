@@ -1,0 +1,37 @@
+h1{
+    color: red;
+    font-size: 20px;
+}
+p{
+    color: green;
+    font-size: 14px;
+    text-align: justify;/*can le*/
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;/*normal bold 400-700*/
+    text-decoration: underline;/*gach chan*/
+    text-transform: none;/*viet hoa*/
+    width: 500px;
+    line-height: 20px;
+}
+div{
+    width: 600px;
+    float: left;
+    border: 1px solid red;
+    margin-top:5px;/*khoang cach giua cac khoi*/
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+
+
+}
+body
+{
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+}
+.dv1{
+    background-color: green;
+}
+.dv2{
+    background-color: blue;
+}
